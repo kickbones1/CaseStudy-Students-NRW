@@ -36,7 +36,7 @@ at the selected universities over time. The resulting animation is saved
 as a GIF file.
 
 ## Results
-
+![animation.gif]
 We can see that the total number of guest students at the universitiy of
 Bochum increases over time and even overtakes the university of
 Bielefeld in WS 2018. The number of guest students at Bielefeld
