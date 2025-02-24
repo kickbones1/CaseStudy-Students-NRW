@@ -5,7 +5,11 @@
 The task of this project is to create an animated graph of the total
 number of guest students at three universities in North Rhine-Westphalia
 over the course of several years. The data is provided in a CSV file by
-the website GOVDATA. \## Data Processing The data is read from the
+the website GOVDATA. 
+
+## Data Processing 
+
+The data is read from the
 provided CSV file and cleaned to ensure consistency and accuracy. We
 filter the data for the universities of Bielefeld, Bochum, Bonn and and
 then create a summary row for each year. The resulting data used for
@@ -36,7 +40,7 @@ at the selected universities over time. The resulting animation is saved
 as a GIF file.
 
 ## Results
-![animation.gif]
+![](animation.gif)
 We can see that the total number of guest students at the universitiy of
 Bochum increases over time and even overtakes the university of
 Bielefeld in WS 2018. The number of guest students at Bielefeld
