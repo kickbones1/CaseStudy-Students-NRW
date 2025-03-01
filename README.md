@@ -47,3 +47,6 @@ Bochum increases over time and even overtakes the university of
 Bielefeld in WS 2018. The number of guest students at Bielefeld
 decreases in the last years, while the number of guest students at Bonn
 remains relatively constant.
+
+## The R Code
+Take a look in the file CaseStudy_Code.R
